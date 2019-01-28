@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Riddles - The Quest For Answers</string>
+    <string name="Name">ENTER YOUR NAME</string>
+
+    <string name="Riddles">Riddles</string>
+
+    <string name="riddles">What type of Riddles do you like?</string>
+
+    <string name="simple">Simple</string>
+    <string name="difficult">Difficult</string>
+    <string name="funny">Funny</string>
+
+    <string name="Question1">Q.1</string>
+    <string name="Q1"> I am always hungry, I must always be fed, The finger I touch, Will soon turn red. </string>
+
+    <string name="Question2">Q.2</string>
+    <string name="Q2">All about, but cannot be seen, Can be captured, cannot be held, No throat, but can be heard.</string>
+
+    <string name="Question3">Q.3</string>
+    <string name="Q3">At night they come without being fetched. By day they are lost without being stolen.</string>
+
+    <string name="Question4">Q.4</string>
+    <string name="Q4">What is in seasons, seconds, centuries and minutes but not in decades, years or days?</string>
+
+    <string name="Question5">Q.5</string>
+    <string name="Q5">What has a head, a tail, is brown, and has no legs?</string>
+
+    <string name="Question6">Q.6</string>
+    <string name="Q6">What is black when you get it, red when you use it, and white when you are all through with it?</string>
+
+    <!-- Question 7 -->
+    <string name="Question7">Q.7</string>
+    <string name="Q7">I can travel the world without leaving my corner. What am I?</string>
+
+
+    <!-- Options for Question 1 -->
+    <string name="bee">A bee</string>
+    <string name="nettle">A staining nettle</string>
+    <string name="fire">Fire</string>
+    <string name="water">Water</string>
+
+    <!-- Options for Question 2 -->
+    <string name="bird">A bird</string>
+    <string name="fire1">Fire</string>
+    <string name="rain">Rain</string>
+    <string name="wind">Wind</string>
+
+    <!-- Options for Question 3 -->
+    <string name="caterpillar">A caterpillar</string>
+    <string name="child">A child</string>
+    <string name="knight">A knight</string>
+    <string name="stars">The Stars</string>
+
+    <!-- Options for Question 4 -->
+    <string name="watch">A watch</string>
+    <string name="askMe">Do not ask me</string>
+    <string name="N">N</string>
+    <string name="nothing">Nothing</string>
+
+    <!-- Options for Question 5 -->
+    <string name="ant">An ant</string>
+    <string name="apple">An apple</string>
+    <string name="penny">A penny</string>
+    <string name="stalkOfApple">A stalk of a apple</string>
+
+    <!-- Options for Question 6 -->
+    <string name="paper">A paper</string>
+    <string name="penguin">A sunburnt penguin</string>
+    <string name="charcoal">Charcoal</string>
+    <string name="cardboard">A cardboard</string>
+
+    <!-- Button -->
+    <string name="button">Submit</string>
+
+    <string name="typeYourAnswer">TYPE YOUR ANSWER HERE</string>
+
+</resources>
